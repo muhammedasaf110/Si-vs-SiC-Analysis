@@ -24,6 +24,9 @@ Steady-state measurement directives were extracted from the SPICE error log:
 
 Thermal limitations
 
+<img width="317" height="168" alt="image" src="https://github.com/user-attachments/assets/03f60b6e-d420-4691-8bd0-a31decc54a62" />
+
+
     Steady-state loss: the MOSFET requires ~28W of heat rejection, necessitating a physical heatsink at minimum.
 
     Startup transients: during the initial startup (0ms to 10ms), power spikes exceeded 5.4 kW.
